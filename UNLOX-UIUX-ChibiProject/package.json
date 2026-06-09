@@ -1,0 +1,14 @@
+{
+  "name": "chibi-avatar-project",
+  "version": "1.0.0",
+  "description": "Inclusive Chibi Avatar SVG Library — 60+ generated characters spanning 6 identity dimensions",
+  "type": "module",
+  "scripts": {
+    "generate": "node generate.js",
+    "preview": "live-server preview/ --port=3000 --open",
+    "clean": "rm -rf output/*.svg"
+  },
+  "keywords": ["svg", "avatar", "inclusive-design", "chibi", "diversity", "javascript"],
+  "author": "Your Name",
+  "license": "MIT"
+}

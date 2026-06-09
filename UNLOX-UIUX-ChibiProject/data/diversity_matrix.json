@@ -1,0 +1,602 @@
+[
+  {
+    "id": "avatar_001",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "none",
+    "religion": "turban",
+    "ageGroup": "child",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_002",
+    "skinTone": "medium",
+    "gender": "male",
+    "disability": "wheelchair",
+    "religion": "hijab",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_003",
+    "skinTone": "tan",
+    "gender": "male",
+    "disability": "cane",
+    "religion": "kippah",
+    "ageGroup": "elder",
+    "bodyType": "slim",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_004",
+    "skinTone": "brown",
+    "gender": "nonbinary",
+    "disability": "hearingAid",
+    "religion": "kippah",
+    "ageGroup": "teen",
+    "bodyType": "plus",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_005",
+    "skinTone": "deep",
+    "gender": "female",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_006",
+    "skinTone": "tan",
+    "gender": "female",
+    "disability": "wheelchair",
+    "religion": "bindi",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_007",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_008",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_009",
+    "skinTone": "deep",
+    "gender": "agender",
+    "disability": "none",
+    "religion": "kippah",
+    "ageGroup": "adult",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_010",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "none",
+    "religion": "kippah",
+    "ageGroup": "teen",
+    "bodyType": "slim",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_011",
+    "skinTone": "light",
+    "gender": "female",
+    "disability": "none",
+    "religion": "kippah",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_012",
+    "skinTone": "deep",
+    "gender": "nonbinary",
+    "disability": "none",
+    "religion": "kippah",
+    "ageGroup": "teen",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_013",
+    "skinTone": "tan",
+    "gender": "female",
+    "disability": "wheelchair",
+    "religion": "hijab",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_014",
+    "skinTone": "deep",
+    "gender": "nonbinary",
+    "disability": "hearingAid",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "slim",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_015",
+    "skinTone": "light",
+    "gender": "agender",
+    "disability": "glasses",
+    "religion": "none",
+    "ageGroup": "child",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_016",
+    "skinTone": "light",
+    "gender": "female",
+    "disability": "cane",
+    "religion": "turban",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_017",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "cane",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_018",
+    "skinTone": "deep",
+    "gender": "female",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_019",
+    "skinTone": "brown",
+    "gender": "agender",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_020",
+    "skinTone": "deep",
+    "gender": "female",
+    "disability": "none",
+    "religion": "hijab",
+    "ageGroup": "child",
+    "bodyType": "plus",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_021",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "cane",
+    "religion": "turban",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_022",
+    "skinTone": "deep",
+    "gender": "nonbinary",
+    "disability": "hearingAid",
+    "religion": "kippah",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_023",
+    "skinTone": "brown",
+    "gender": "agender",
+    "disability": "none",
+    "religion": "bindi",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_024",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "none",
+    "religion": "hijab",
+    "ageGroup": "child",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_025",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "glasses",
+    "religion": "turban",
+    "ageGroup": "teen",
+    "bodyType": "slim",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_026",
+    "skinTone": "deep",
+    "gender": "male",
+    "disability": "wheelchair",
+    "religion": "hijab",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_027",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "wheelchair",
+    "religion": "kippah",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_028",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "cane",
+    "religion": "turban",
+    "ageGroup": "elder",
+    "bodyType": "slim",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_029",
+    "skinTone": "light",
+    "gender": "female",
+    "disability": "hearingAid",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "slim",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_030",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "none",
+    "religion": "hijab",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_031",
+    "skinTone": "medium",
+    "gender": "male",
+    "disability": "glasses",
+    "religion": "bindi",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_032",
+    "skinTone": "deep",
+    "gender": "agender",
+    "disability": "wheelchair",
+    "religion": "none",
+    "ageGroup": "teen",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_033",
+    "skinTone": "medium",
+    "gender": "agender",
+    "disability": "hearingAid",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_034",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "glasses",
+    "religion": "bindi",
+    "ageGroup": "child",
+    "bodyType": "average",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_035",
+    "skinTone": "deep",
+    "gender": "nonbinary",
+    "disability": "glasses",
+    "religion": "none",
+    "ageGroup": "teen",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_036",
+    "skinTone": "tan",
+    "gender": "agender",
+    "disability": "hearingAid",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "plus",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_037",
+    "skinTone": "tan",
+    "gender": "male",
+    "disability": "glasses",
+    "religion": "hijab",
+    "ageGroup": "adult",
+    "bodyType": "plus",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_038",
+    "skinTone": "tan",
+    "gender": "nonbinary",
+    "disability": "glasses",
+    "religion": "bindi",
+    "ageGroup": "teen",
+    "bodyType": "slim",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_039",
+    "skinTone": "medium",
+    "gender": "agender",
+    "disability": "hearingAid",
+    "religion": "turban",
+    "ageGroup": "child",
+    "bodyType": "plus",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_040",
+    "skinTone": "brown",
+    "gender": "agender",
+    "disability": "cane",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "plus",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_041",
+    "skinTone": "tan",
+    "gender": "male",
+    "disability": "none",
+    "religion": "kippah",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_042",
+    "skinTone": "tan",
+    "gender": "female",
+    "disability": "wheelchair",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_043",
+    "skinTone": "brown",
+    "gender": "female",
+    "disability": "hearingAid",
+    "religion": "turban",
+    "ageGroup": "teen",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_044",
+    "skinTone": "deep",
+    "gender": "agender",
+    "disability": "glasses",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_045",
+    "skinTone": "tan",
+    "gender": "nonbinary",
+    "disability": "glasses",
+    "religion": "none",
+    "ageGroup": "child",
+    "bodyType": "slim",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_046",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "wheelchair",
+    "religion": "bindi",
+    "ageGroup": "teen",
+    "bodyType": "plus",
+    "hairStyle": "bun"
+  },
+  {
+    "id": "avatar_047",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "cane",
+    "religion": "bindi",
+    "ageGroup": "child",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_048",
+    "skinTone": "medium",
+    "gender": "agender",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "child",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_049",
+    "skinTone": "deep",
+    "gender": "nonbinary",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "plus",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_050",
+    "skinTone": "light",
+    "gender": "female",
+    "disability": "none",
+    "religion": "turban",
+    "ageGroup": "child",
+    "bodyType": "plus",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_051",
+    "skinTone": "brown",
+    "gender": "male",
+    "disability": "hearingAid",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "plus",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_052",
+    "skinTone": "light",
+    "gender": "agender",
+    "disability": "none",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_053",
+    "skinTone": "brown",
+    "gender": "nonbinary",
+    "disability": "cane",
+    "religion": "turban",
+    "ageGroup": "adult",
+    "bodyType": "slim",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_054",
+    "skinTone": "deep",
+    "gender": "nonbinary",
+    "disability": "glasses",
+    "religion": "none",
+    "ageGroup": "elder",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_055",
+    "skinTone": "light",
+    "gender": "male",
+    "disability": "wheelchair",
+    "religion": "turban",
+    "ageGroup": "adult",
+    "bodyType": "plus",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_056",
+    "skinTone": "deep",
+    "gender": "female",
+    "disability": "glasses",
+    "religion": "none",
+    "ageGroup": "adult",
+    "bodyType": "average",
+    "hairStyle": "curly"
+  },
+  {
+    "id": "avatar_057",
+    "skinTone": "light",
+    "gender": "nonbinary",
+    "disability": "wheelchair",
+    "religion": "none",
+    "ageGroup": "child",
+    "bodyType": "plus",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_058",
+    "skinTone": "deep",
+    "gender": "male",
+    "disability": "none",
+    "religion": "kippah",
+    "ageGroup": "child",
+    "bodyType": "average",
+    "hairStyle": "short"
+  },
+  {
+    "id": "avatar_059",
+    "skinTone": "deep",
+    "gender": "agender",
+    "disability": "none",
+    "religion": "turban",
+    "ageGroup": "elder",
+    "bodyType": "slim",
+    "hairStyle": "long"
+  },
+  {
+    "id": "avatar_060",
+    "skinTone": "tan",
+    "gender": "nonbinary",
+    "disability": "hearingAid",
+    "religion": "none",
+    "ageGroup": "teen",
+    "bodyType": "slim",
+    "hairStyle": "bun"
+  }
+]
